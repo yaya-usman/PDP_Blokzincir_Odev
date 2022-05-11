@@ -57,7 +57,6 @@ def write_block(borrower, lender, amount):
 
 
 def main():
-    # write_block("usman","yaya",2000)
     check_integrity()
 
 
