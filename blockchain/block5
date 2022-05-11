@@ -1,0 +1,9 @@
+{
+    "borrower": "usman",
+    "lender": "yaya",
+    "amount": 2000,
+    "prev_block": {
+        "hash": "345ca1cb4820febed7e4439356ed0331",
+        "filename": "block4"
+    }
+}
